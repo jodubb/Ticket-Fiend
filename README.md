@@ -1,8 +1,5 @@
 # Ticket-Fiend
 
-https://jodubb.github.io/Ticket-Fiend/
-
-
 A search site for various tickets 
 What this web application does is find various tickets, whether they be for sporting events, concerts, plays, etc., being sold from various sources and puts them all in one location. This application utilizes an API called SeatGeek in order find the information on events throughout the United States and Canada for us to use in our application. The problem that this solves is that it condenses search results from 60+ ticket sites into one application, thus making finding the right ticket price much easier for a user to find. 
 
